@@ -88,6 +88,7 @@ help () {
   echo "    Pretty print the branches/tags in the simulation"
   echo "  help|h"
   echo "    Print this help menu"
+  echo ""
 }
 
 
